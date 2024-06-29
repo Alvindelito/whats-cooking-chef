@@ -4,7 +4,7 @@ import { Accordion, AccordionItem } from '@szhsin/react-accordion';
 function App() {
   return (
     <div>
-      <img src="https://placehold.co/2400x1200/png" alt="hero" />
+      <img src="src/assets/Whats_Cooking_Chef_1.png" alt="hero" />
       {/* ig preview photos */}
       <div className="mt-2">
         <InstagramPreview />
@@ -71,6 +71,12 @@ function App() {
       </AccordionItem>
     </Accordion>
       </div>
+
+    {/* CONTACT */}
+    <div>
+      <h2>REACH OUT TO INQUIRE ABOUT OUR SERVICES</h2>
+      {/* form stuff goes here */}
+    </div>
     </div>
   )
 }
