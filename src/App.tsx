@@ -4,7 +4,9 @@ import { Accordion, AccordionItem } from '@szhsin/react-accordion';
 function App() {
   return (
     <div>
-      <img src="src/assets/Whats_Cooking_Chef_1.png" alt="hero" />
+      <div className="flex justify-center w-full h-full">
+        <img src="src/assets/Whats_Cooking_Chef_1.jpg" alt="hero" />
+      </div>
       {/* ig preview photos */}
       <div className="mt-2">
         <InstagramPreview />
