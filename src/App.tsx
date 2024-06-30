@@ -13,11 +13,11 @@ function App() {
       </div>
       {/* services */}
       <div>
-        <h2>Services</h2>
+        <h2 className="font-bold text-7xl uppercase underline text-center">Services</h2>
         <div className="grid lg:grid-cols-3 md:grid-cols-2 flex justify-center w-full">
-          <img className="rounded-full" src="https://placehold.co/400x400/png" alt="" />
-          <img className="rounded-full" src="https://placehold.co/400x400/png" alt="" />
-          <img className="rounded-full" src="https://placehold.co/400x400/png" alt="" />
+          <img className="rounded-full" src="https://res.cloudinary.com/alvindelito/image/upload/ar_1:1,c_fill,h_400,w_400/v1719734198/services_1_aks7p4.jpg" alt="" />
+          <img className="rounded-full" src="https://res.cloudinary.com/alvindelito/image/upload/ar_1:1,c_fill,h_400,w_400/v1719734198/services_2_j1zxop.jpg" alt="" />
+          <img className="rounded-full" src="https://res.cloudinary.com/alvindelito/image/upload/ar_1:1,c_fill,h_400,w_400/v1719734198/services_3_vkautl.jpg" alt="" />
         </div>
       </div>
       {/* in-home meal prep service */}
@@ -33,8 +33,8 @@ function App() {
           </div>
           <p>Pricing varies depending on meal matrix starting at <span className="bold">$250 minimum ** Not including tax & grocery bill**</span></p>
           <div className="grid lg:grid-cols-3 md:grid-cols-2 flex justify-center w-full">
-          <img className="rounded-full" src="https://placehold.co/400x400/png" alt="" />
-          <img className="rounded-full" src="https://placehold.co/400x400/png" alt="" />
+          <img className="rounded-full" src="https://res.cloudinary.com/alvindelito/image/upload/ar_1:1,c_fill,h_400,w_400/v1719734198/services_4_n0jv2h.jpg" alt="" />
+          <img className="rounded-full" src="https://res.cloudinary.com/alvindelito/image/upload/ar_1:1,c_fill,h_400,w_400/v1719734198/services_5_unsnyr.jpg" alt="" />
         </div>
       </div>
       {/* dinner */}
